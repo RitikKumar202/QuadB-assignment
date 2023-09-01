@@ -2,7 +2,7 @@
 
 1) git clone `https://github.com/RitikKumar202/QuadB-assignment.git`
 
-2) Run `npm instal` in the root directory to install all the dependencies.
+2) Run `npm install` in the root directory to install all the dependencies.
 
 3) Run `npm start` in the root directory to start the project.
 
